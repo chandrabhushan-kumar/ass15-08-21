@@ -1,0 +1,50 @@
+.pagewrapper{
+    height: min-content;
+    width: 60%;
+    background-color: aliceblue;
+    border: 2px solid #cccccc;
+    margin: auto;
+    margin-top: 50px;
+}
+.vision{
+    color: cornflowerblue;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.vision:hover{
+    color: deeppink;
+}
+.paragraph1{
+    font-size: 20px;
+    text-align: justify;
+    padding: 0px 100px 20px 100px;
+}
+.to{
+    color: darkorange;
+    font-size: 24px;
+}
+.to:hover{
+    color: rgb(202, 31, 31);
+    cursor: pointer;
+}
+.missison{
+    color: blueviolet;
+    padding-top: 10px;
+    padding-left: 50px;
+}
+.missison:hover{
+    color: gold;
+}
+.paragraph1{
+    font-size: 20px;
+    text-align: justify;
+    padding: 0px 100px 20px 100px;
+}
+.iffco{
+    font-size: 25px;
+    font-weight: bold;
+    color: crimson;
+}
+.iffco:hover{
+    color: goldenrod;
+}
